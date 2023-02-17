@@ -12,6 +12,8 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
+        "@types/bcrypt": "^5.0.0",
+        "bcrypt": "^5.1.0",
         "dotenv": "^16.0.3",
         "fastify": "^4.13.0",
         "inversify": "^6.0.1",

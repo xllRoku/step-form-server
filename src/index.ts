@@ -1,1 +1,4 @@
-console.log('hello world');
+import 'reflect-metadata';
+import { bootstrap } from './bootstrap';
+
+bootstrap();
